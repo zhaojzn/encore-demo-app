@@ -1,5 +1,5 @@
 
-# 🎵 Encore — Your concert conpanion
+# 🎵 Encore — Your concert companion
 
 [![Expo](https://img.shields.io/badge/Expo-SDK%20%5E51-black)](https://expo.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6)](https://www.typescriptlang.org/)
