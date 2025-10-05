@@ -1,6 +1,8 @@
 
 # 🎵 Encore — Your concert companion
 
+> **⚠️ Notice for Judges:** This is a separate repository created for Devpost submission. The main repository with full commit history and development progress is kept private due to exposed API keys in the commit history. This public repository contains the same codebase and functionality. If you need access to the private repository for judging purposes, please contact us.
+
 [![Expo](https://img.shields.io/badge/Expo-SDK%20%5E51-black)](https://expo.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6)](https://www.typescriptlang.org/)
 [![React Native](https://img.shields.io/badge/React%20Native-0.7x-61DAFB)](https://reactnative.dev/)
