@@ -1,7 +1,7 @@
 
-# 🎵 Encore — See who’s going to the show
+# 🎵 Encore — Your concert conpanion
 
-[![Expo](https://img.shields.io/badge/Expo- SDK%20%5E51-black)](https://expo.dev/)
+[![Expo](https://img.shields.io/badge/Expo-SDK%20%5E51-black)](https://expo.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6)](https://www.typescriptlang.org/)
 [![React Native](https://img.shields.io/badge/React%20Native-0.7x-61DAFB)](https://reactnative.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore-FFCA28)](https://firebase.google.com/)
